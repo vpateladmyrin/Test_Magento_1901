@@ -1,4 +1,5 @@
 <?php
+echo "cron";
 /**
  * Magento
  *
