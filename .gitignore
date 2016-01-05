@@ -1,0 +1,12 @@
+idea/
+/.idea
+/media/
+var/
+SQL/
+app/etc/local.xml
+migration/db.php
+/nbproject/private/
+/nbproject
+downloader/cache.cfg
+downloader/connect.cfg
+robots.txt
