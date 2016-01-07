@@ -1,5 +1,4 @@
 <?php
-smart git
 /**
  * Magento
  *
